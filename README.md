@@ -1,16 +1,5 @@
-# getx_pattern
+# near city design link 
 
-A new Flutter project.
+https://xd.adobe.com/view/bc455f1b-b7f0-4724-81b5-cae5c9dd4998-e916/
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
